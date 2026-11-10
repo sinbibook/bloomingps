@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-11-10T04:00:30.578992580Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-11-10T04:00:55.444210467Z",
     "templateType": "trip_a",
     "propertyId": "0c20b3e4-ed89-4ddd-bf29-bad9980aebb0",
     "homepageId": "01a1a045-73fb-7e6e-8c20-8fb991cb6b88"
@@ -2365,7 +2365,7 @@
             ],
             "slider": false,
             "videos": [ ],
-            "enabled": true,
+            "enabled": false,
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
